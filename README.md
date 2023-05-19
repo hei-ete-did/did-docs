@@ -25,7 +25,7 @@ Simply clone or download the repository.
   mkdir -p c:/work
   cd /d c:/work
   git clone https://github.com/hei-ete-did/did-docs.git
-  cd car-docs
+  cd did-docs
   ```
 
 ### Linux & Mac
@@ -35,7 +35,7 @@ Simply clone or download the repository.
   mkdir -p ~/work
   cd ~/work
   git clone https://github.com/hei-ete-did/did-docs.git
-  cd car-docs
+  cd did-docs
   ```
 
 ## Credits
